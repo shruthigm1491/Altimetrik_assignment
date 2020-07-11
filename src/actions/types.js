@@ -1,0 +1,9 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const IS_AUTHENTICATED = 'IS_AUTHENTICATED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const GET_PLANETS = 'GET_PLANETS';
+export const GET_SINGLE_PLANET = 'GET_SINGLE_PLANET';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
